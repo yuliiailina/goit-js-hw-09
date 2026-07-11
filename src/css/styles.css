@@ -80,7 +80,6 @@
   box-sizing: border-box;
   outline: none;
   transition: border-color 0.2s;
-  max-height: 80px;
   resize: none;
 }
 
